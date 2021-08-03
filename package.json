@@ -1,0 +1,16 @@
+{
+  "name": "calendeur",
+  "version": "0.1.0",
+  "description": "Calendar API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "calendar",
+    "api"
+  ],
+  "license": "MIT"
+}
